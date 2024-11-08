@@ -62,6 +62,3 @@ The recommendation system uses KMeans clustering to suggest job roles for employ
 ## Results and Evaluation
 - Logistic Regression and CatBoost achieved the best results based on cross-validation accuracy and balanced test scores.
 - The recommendation system effectively groups employees based on similar job attributes, providing actionable recommendations.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
