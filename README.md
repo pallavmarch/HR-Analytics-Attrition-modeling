@@ -18,10 +18,6 @@ The IBM HR Analytics Employee Attrition dataset, downloaded directly from Kaggle
     - pandas, numpy, matplotlib, seaborn, plotly
     - scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, tqdm
 
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ## Project Structure
 
